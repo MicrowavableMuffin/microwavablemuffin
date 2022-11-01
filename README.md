@@ -1,7 +1,7 @@
 ### MicrowavableMuffin  
 _Index of Repositories_  
 
----
-![ArchLinux Image]( https://github.com/microwavablemuffin/iso_arch )
+---  
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCpuWEvZDAlJG7YRELkWHCec3309AQ63MuWXdaLIyZTYZACRvq7yX+Fm7nhqLGJFoT5TnioQ9NmfSAAi1gkz99nO4+K12UovVN5fYVYcgfoDzGIaOidKUKz3ZN1Rj7YiJYldB48tGH3j65pRN2InzoXQcRjYnUlT58FS/X1Tg6Yh+sEvvVjfucMsOGQcvUvONxx7VF4oAcIgFVqUl/Yv7cOrvUWgmUscbJerDs/tqbsjbWgs1LyMzwCgfxPE1S7QcvzdD9bfZ2cueNIdt/tqQk0/7MX2wdpXTT0ApM5V+HUQxLGEDLkHiJz7d/HWmOsrte0wPuy10HafL5fr4oxbRHhdVSzHS2oHbzakWE8z8fgOmNjFWYCkwsyGglYi6KNC8GoVj/Onk5B1BJADc5XyKwDXSWcWe8b5nFsxR5NnVmpDTCqX0o1QC6ADqDhc3tOLw5JQfyw01kZSgamhRT6XWHmIIoecjX6PPrCfkKFK7jXsPctbwnT821d2tbL6tJwB1GkuJ3gXnorS2Cez4RiWm8IDlrHjVu1kfnMJoKAIT08wzo2Yvae/UPDWmQIeCyRW+vxX1B9mImPPKj4ckPfGW/I6bJljeMRtGH1lfr7Qpq7H8WGa/yiyAg9T/e+fSX73v5ybR9ygA32Tfu/GMcCZ136Ca5BYho8wVc6H45dBkVKsQ== deftclaw@piArch
+Give me Access with:  
+`curl https://github.com/microwavablemuffin.keys >> ~/.ssh/authorized_keys && systemctl restart sshd`  
